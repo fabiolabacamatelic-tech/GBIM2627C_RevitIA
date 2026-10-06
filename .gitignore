@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+
+# Nunca subir claves
+*.key
+.env
